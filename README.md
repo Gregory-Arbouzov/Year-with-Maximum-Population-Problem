@@ -1,1 +1,1 @@
-# I don't have a seperate data file since I made a dictionary in the py file that contains all the birth/death information.
+# I don't have a seperate data file since I made a dictionary in the py file that contains all the birth/death information. Also, the plot does not look the way it should until it is opened in a new tab.
